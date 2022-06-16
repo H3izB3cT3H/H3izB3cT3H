@@ -1,0 +1,7 @@
+echo "# H3izB3cT3H" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/H3izB3cT3H/H3izB3cT3H.git
+ git push - ты попал в западню
